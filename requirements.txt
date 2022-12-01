@@ -1,0 +1,5 @@
+git+https://github.com/intelligent-environments-lab/CityLearn.git@v1.3.6
+-e git+https://github.com/abred/ai_dm@mcts#egg=ai_dm
+numpy
+gym
+matplotlib
